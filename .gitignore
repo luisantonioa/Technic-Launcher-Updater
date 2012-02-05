@@ -1,0 +1,6 @@
+
+*.user
+*.suo
+/WindowsLauncher/bin
+/WindowsLauncher/obj
+/_ReSharper.Technic
